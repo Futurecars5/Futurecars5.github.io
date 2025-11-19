@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Disallow: /_layouts/
+Disallow: /_includes/
+Disallow: /_site/
+Disallow: /_sass/
+Disallow: /assets/
+
+Sitemap: https://example.github.io/sitemap.xml

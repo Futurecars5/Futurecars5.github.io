@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<title>{{ page.title }}</title>
+<meta name="description" content="{{ page.description }}"/>
+
+<link rel="stylesheet" href="/style.css" />
+
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="{{ page.description }}" />
+<meta property="og:image" content="/images/{{ page.slug }}.jpg" />
+<meta property="og:type" content="website" />
+
+</head>
+<body>
+{{ content }}
+</body>
+</html>
