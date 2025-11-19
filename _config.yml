@@ -1,7 +1,16 @@
-title: "Future cars"
-description: "Cars 2025–2045: $15k EVs, 0–100 in 0.9 s, full autonomy, 6-minute charging, flying taxis, zero road deaths. Facts only, zero hype."
+title: "My Tech News"
+description: "Новости о технологиях будущего — нейрочипы, ИИ, импланты."
+keywords: "tech, science, future"
+
+url: "https://YOUR_GITHUB_NAME.github.io"
+baseurl: ""
+
+image_dir: "images"
+default_image: "/images/n1.jpg"
+
+onesignal_id: "dd1c388d-b9e8-41b3-b904-e811dbcfae4c"
+
 markdown: kramdown
 plugins:
+  - jekyll-seo-tag
   - jekyll-sitemap
-exclude:
-  - README.md
