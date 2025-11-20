@@ -1,14 +1,11 @@
 title: "My Tech News"
-description: "Новости о технологиях будущего — нейрочипы, ИИ, импланты."
-keywords: "tech, science, future"
+description: "Новости будущего: нейроинтерфейсы, ИИ, биотехнологии."
+keywords: "tech, нейролинки, технологии будущего, новости"
 
 url: "https://YOUR_GITHUB_NAME.github.io"
 baseurl: ""
 
 image_dir: "images"
-default_image: "/images/n1.jpg"
-
-onesignal_id: "dd1c388d-b9e8-41b3-b904-e811dbcfae4c"
 
 markdown: kramdown
 plugins:
