@@ -2,9 +2,8 @@ User-agent: *
 Allow: /
 
 Disallow: /_layouts/
+Disallow: /_sass/
 Disallow: /_includes/
 Disallow: /_site/
-Disallow: /_sass/
-Disallow: /assets/
 
-Sitemap: https://example.github.io/sitemap.xml
+Sitemap: https://YOUR_GITHUB_NAME.github.io/sitemap.xml
