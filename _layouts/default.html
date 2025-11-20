@@ -1,21 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-<title>{{ page.title }}</title>
-<meta name="description" content="{{ page.description }}"/>
+  <title>
+    {% if page.title %}
+      {{ page.title }} — {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
 
-<link rel="stylesheet" href="/style.css" />
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="keywords" content="{{ page.keywords | default: site.keywords }}">
 
-<meta property="og:title" content="{{ page.title }}" />
-<meta property="og:description" content="{{ page.description }}" />
-<meta property="og:image" content="/images/{{ page.slug }}.jpg" />
-<meta property="og:type" content="website" />
+  {% seo %}
 
+  <!-- OG fallback -->
+  <meta property="og:image" content="{{ site.url }}/{{ site.image_dir }}/{{ page.slug | default: page.title | slugify }}.jpg">
+
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
 </head>
+
 <body>
-{{ content }}
+  {{ content }}
 </body>
 </html>
