@@ -1,21 +1,40 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.description }}">
 
-<article class="post">
+  {% assign img_regex = '<img.*src="([^"]*)"' %}
+  {% assign first_image = content | regex_scan: img_regex | first %}
+  {% if first_image %}
+    {% assign og_image = first_image[1] %}
+  {% else %}
+    {% assign og_image = '/images/default.jpg' %}
+  {% endif %}
 
-  <h1>{{ page.title }}</h1>
+  <!-- OpenGraph -->
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:image" content="{{ og_image | absolute_url }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
 
-  {% assign slug = page.slug | default: page.title | slugify %}
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.description }}">
+  <meta name="twitter:image" content="{{ og_image | absolute_url }}">
 
-  <!-- Первая картинка → и на главную, и в статью -->
-  <img src="/{{ site.image_dir }}/{{ slug }}.jpg" class="post-image" alt="{{ page.title }}">
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+</head>
 
-  {{ content }}
+<body>
+  <div class="article">
+    <h1>{{ page.title }}</h1>
 
-  <!-- Вторая картинка только в статье -->
-  <img src="/{{ site.image_dir }}/{{ slug }}2.jpg" class="post-image" alt="{{ page.title }} image 2">
-
-  <p><a href="/">← На главную</a></p>
-
-</article>
+    <!-- Контент статьи с твоими HTML-картинками -->
+    {{ content }}
+  </div>
+</body>
+</html>
