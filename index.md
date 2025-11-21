@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Latest News"
-description: "Новости технологий будущего"
+title: "Future cars"
+description: "Cars 2025–2045: $15k EVs, 0–100 in 0.9 s, full autonomy, 6-minute charging, flying taxis, zero road deaths. Facts only, zero hype."
 permalink: /
 ---
 
