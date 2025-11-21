@@ -1,20 +1,29 @@
 ---
 layout: default
-title: "Future cars"
-description: "Cars 2025–2045: $15k EVs, 0–100 in 0.9 s, full autonomy, 6-minute charging, flying taxis, zero road deaths. Facts only, zero hype."
-permalink: /
+title: "Latest Articles"
 ---
 
-<div class="articles">
-{% assign posts_sorted = site.posts | sort: 'date' | reverse %}
-{% for post in posts_sorted %}
-  {% assign slug = post.slug %}
-  <article class="card">
+<h1>Latest Articles</h1>
+
+<ul class="posts">
+
+{% for post in site.posts %}
+  {% assign img_regex = '<img.*src="([^"]*)"' %}
+  {% assign first_image = post.content | regex_scan: img_regex | first %}
+  {% if first_image %}
+    {% assign card_image = first_image[1] %}
+  {% else %}
+    {% assign card_image = '/images/default.jpg' %}
+  {% endif %}
+
+  <li class="post-item">
     <a href="{{ post.url | relative_url }}">
-      <img src="/{{ site.image_dir }}/{{ slug }}.jpg" alt="{{ post.title }}" class="preview">
+      <img src="{{ card_image }}" alt="" class="post-thumb">
       <h2>{{ post.title }}</h2>
       <p>{{ post.description }}</p>
     </a>
-  </article>
+  </li>
+
 {% endfor %}
-</div>
+
+</ul>
