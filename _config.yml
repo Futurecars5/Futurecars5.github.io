@@ -6,6 +6,11 @@ permalink: pretty
 future: true               
 show_drafts: false
 
+collections:
+  chapters:
+    output: true
+    sort_by: title
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
