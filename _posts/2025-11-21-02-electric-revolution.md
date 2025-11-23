@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "02. Electric Revolution: The Day Gasoline Lost Forever (2025–2045)"
-date: 2025-11-21 02:00:00
+date: 2025-11-21 01:00:00
 description: "By 2030 70 % of new cars are electric. By 2045 the internal combustion engine is legally dead everywhere."
 ---
 
