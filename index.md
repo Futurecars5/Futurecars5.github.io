@@ -10,8 +10,8 @@ description: "Cars 2025–2045: $15k EVs, 0–100 in 0.9s, full autonomy, 6-min 
 </div>
 
 <div class="posts-grid">
-  {% assign sorted_chapters = site.chapters | sort: 'title' %}
-  {% for post in sorted_chapters %}
+  {% assign sorted_posts = site.posts | reverse %}
+  {% for post in sorted_posts %}
     {% assign first_image = post.content | split:'src="' | slice:1 | first | split:'"' | first %}
 
     <article class="post-card">
