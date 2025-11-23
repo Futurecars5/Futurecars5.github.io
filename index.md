@@ -16,9 +16,7 @@ description: "Cars 2025–2045: $15k EVs, 0–100 in 0.9s, full autonomy, 6-min 
     <article class="post-card">
       <a href="{{ post.url }}">
         <div class="post-thumb-wrapper">
-          <img src="{{ first_image | default: '/images/cover.jpg' }}" 
-               alt="{{ post.title }}" 
-               class="post-thumb">
+          <img src="{{ first_image }}" alt="{{ post.title }}" class="post-thumb">
         </div>
         <div class="post-info">
           <h2>{{ post.title | split: ". " | last }}</h2>
