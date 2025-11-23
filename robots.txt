@@ -1,9 +1,5 @@
 User-agent: *
 Allow: /
-
-Disallow: /_layouts/
-Disallow: /_sass/
-Disallow: /_includes/
-Disallow: /_site/
+Disallow:
 
 Sitemap: https://futurecars5.github.io/sitemap.xml
