@@ -6,7 +6,7 @@ description: "Cars 2025–2045: $15k EVs, 0–100 in 0.9s, full autonomy, 6-min 
 
 <div class="home-hero">
   <h1>Future Cars<br><span>2025–2045</span></h1>
-  <p class="subtitle">30 chapters • 20-year roadmap • Everything already funded and built</p>
+  <p class="subtitle">Everything already funded and built</p>
 </div>
 
 <div class="posts-grid">
