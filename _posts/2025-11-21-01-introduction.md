@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "01. Introduction: The Biggest Automotive Revolution in History (2025–2045)"
-date: 2025-11-21 01:00:00
+date: 2025-11-21 02:00:00
 description: "From 2025 to 2045 the car will change more than in the previous 140 years combined. Facts only."
 ---
 
