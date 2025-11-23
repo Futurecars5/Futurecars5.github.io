@@ -35,3 +35,6 @@ Level 5 reaction time: **0.0001 seconds**.
 Waymo today is already **6.8× safer** than humans.
 
 In 2045 your car will be safer than your living room.
+<div class="next-chapter">
+  <strong>Next chapter</strong> <a href="/2025/11/21/04-v2x-connectivity/">04. V2X Connectivity: Cars That Talk to Everything</a>
+</div>
