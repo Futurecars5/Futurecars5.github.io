@@ -10,24 +10,22 @@
 
   <meta name="description" content="{{ page.description | default: 'Cars 2025–2045: $15k EVs, 0–100 in 0.9s, full autonomy, 6-min charging, flying taxis, zero road deaths. Facts only.' }}">
 
-  <!-- Умная OG-превьюшка: первая картинка из поста → cover.jpg -->
+  <!-- OG берёт только первую реальную картинку из поста -->
   {% assign first_img = content | split:'src="' | slice:1 | first | split:'"' | first %}
   {% if first_img and first_img != "" %}
     <meta property="og:image" content="{{ site.url }}{{ first_img }}">
-  {% else %}
-    <meta property="og:image" content="{{ site.url }}/images/cover.jpg">
+    <meta name="twitter:image" content="{{ site.url }}{{ first_img }}">
   {% endif %}
+
   <meta name="twitter:card" content="summary_large_image">
-
   <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
-
   {% seo %}
 </head>
 <body>
   <div class="container">
     {{ content }}
 
-    <!-- Навигация между главами (без includes) -->
+    <!-- Навигация между главами -->
     {% if page.previous or page.next %}
       <nav class="post-nav">
         {% if page.previous %}
