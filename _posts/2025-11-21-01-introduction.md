@@ -35,5 +35,5 @@ These are not guesses — they are locked into EU law, Tesla/Waymo roadmaps, and
 
 Ready? You won’t need to buckle up anymore.
 <div class="next-chapter">
-  <strong>Next chapter</strong> <a href="/02-electric-revolution/">02. Electric Revolution: The Day Gasoline Lost Forever</a>
+  <strong>Next chapter</strong> <a href="/2025/11/21/02-electric-revolution/">02. Electric Revolution: The Day Gasoline Lost Forever</a>
 </div>
