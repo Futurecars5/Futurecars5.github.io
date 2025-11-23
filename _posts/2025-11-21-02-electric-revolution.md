@@ -30,3 +30,6 @@ It lost because electricity became **cheaper, faster, and more convenient**.
 
 The revolution is already over.  
 We’re just waiting for the last gas station to turn off the lights.
+<div class="next-chapter">
+  <strong>Next chapter</strong> <a href="/2025/11/21/03-autonomous-driving/">03. Autonomous Driving: From Level 2 to Level 5 in 20 Years</a>
+</div>
