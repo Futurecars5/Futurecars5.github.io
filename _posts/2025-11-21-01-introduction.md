@@ -34,3 +34,4 @@ These are not guesses — they are locked into EU law, Tesla/Waymo roadmaps, and
 ![Timeline 2025–2045](/images/02.jpg)
 
 Ready? You won’t need to buckle up anymore.
+<div class="next-chapter"><strong>Next chapter</strong> <a href="/02-electric-revolution-the-day-gasoline-lost-forever-2025-2045/">02. Electric Revolution: The Day Gasoline Lost Forever</a></div>
