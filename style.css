@@ -169,3 +169,14 @@ th {
   .post-card img { height: 180px; }
   .post-nav { flex-direction: column; font-size: 1.1rem; }
 }
+
+.next-chapter {
+  margin: 4rem 0 2rem;
+  padding: 1.5rem;
+  background: #000;
+  border-left: 4px solid #00ff88;
+  border-radius: 0 12px 12px 0;
+  font-size: 1.2rem;
+}
+.next-chapter a { color: #00ff88; text-decoration: none; font-weight: 600; }
+.next-chapter a:hover { text-decoration: underline; }
