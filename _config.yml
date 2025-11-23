@@ -3,13 +3,15 @@ description: "Cars 2025–2045: $15k EVs, 0–100 in 0.9s, full autonomy, 6-min 
 url: https://futurecars5.github.io
 baseurl: ""
 permalink: pretty
-future: true               
-show_drafts: false
+future: true
 
-collections:
-  chapters:
-    output: true
-    sort_by: title
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: default
 
 plugins:
   - jekyll-seo-tag
