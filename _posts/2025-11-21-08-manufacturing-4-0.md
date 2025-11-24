@@ -42,5 +42,5 @@ Tesla already does it.
 In 2045 building a car will be closer to injection-molding a phone case than traditional automotive assembly.
 
 <div class="next-chapter">
-  <strong>Next chapter</strong> <a href="/2025/11/21/09-materials-revolution/">09. Materials Revolution: Carbon Fiber, Mushroom Leather and Self-Healing Paint</a>
+  <strong>Next chapter</strong> Materials Revolution: Carbon Fiber, Mushroom Leather and Self-Healing Paint(Coming soon)</a>
 </div>
