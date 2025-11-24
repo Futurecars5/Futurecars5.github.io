@@ -43,3 +43,6 @@ This is already in mass production.
 In 2045 a battery will outlive the car twice — and will be recycled into the next one with 97 % material recovery.
 
 Next chapter → 07. Price Revolution: $9,900 EVs and Robotaxi Economics
+<div class="next-chapter">
+  <strong>Next chapter</strong> <a href="/2025/11/21/07-price-revolution/">07. Price Revolution: $9,900 EVs and Robotaxi Economics</a>
+</div>
