@@ -37,3 +37,6 @@ V2X = Vehicle-to-Everything:
 In 2045 your car will know the traffic light is turning green **before you even see it**.
 
 Next chapter → 05. Charging Revolution
+<div class="next-chapter">
+  <strong>Next chapter</strong> <a href="/2025/11/21/05-charging-revolution/">05. Charging Revolution: 6-Minute Full Charge</a>
+</div>
