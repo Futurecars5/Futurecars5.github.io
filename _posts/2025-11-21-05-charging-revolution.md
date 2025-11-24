@@ -42,3 +42,6 @@ This is already in production.
 In 2045 “low battery” will sound as archaic as “out of film” does today.
 
 Next chapter → 06. Battery Revolution
+<div class="next-chapter">
+  <strong>Next chapter</strong> <a href="/2025/11/21/06-battery-revolution/">06. Battery Revolution: From Lithium to Sodium and Solid-State</a>
+</div>
