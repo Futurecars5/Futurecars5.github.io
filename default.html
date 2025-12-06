@@ -3,56 +3,41 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <title>
-    {% if page.title %}{{ page.title }} — {% endif %}Future Cars 2025–2045
-  </title>
-
+  <title>{% if page.title %}{{ page.title }} — {% endif %}Future Cars 2025–2045</title>
   <meta name="description" content="{{ page.description | default: 'Cars 2025–2045: $15k EVs, 0–100 in 0.9s, full autonomy, 6-min charging, flying taxis, zero road deaths. Facts only.' }}">
-
-  <!-- OG берёт только первую реальную картинку из поста -->
-  {% assign first_img = content | split:'src="' | slice:1 | first | split:'"' | first %}
-  {% if first_img and first_img != "" %}
-    <meta property="og:image" content="{{ site.url }}{{ first_img }}">
-    <meta name="twitter:image" content="{{ site.url }}{{ first_img }}">
-  {% endif %}
-
-  <meta name="twitter:card" content="summary_large_image">
-  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
-  {% seo %}
+  <link rel="stylesheet" href="/style.css">
 </head>
-
 <body>
   <div class="container">
 
-    <!-- ← ВСТАВИЛ ЗАГОЛОВОК ← -->
-    <h1>{{ page.title }}</h1>
+    <!-- Заголовок -->
+    {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
 
-<!-- ← ТВОЯ РЕКЛАМА (100 % работает на GitHub Pages с телефона) ← -->
-<div style="margin:2.5rem auto;text-align:center;">
-  <iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" 
-          width="300" height="250" 
-          frameborder="0" scrolling="no" 
-          style="border:none;overflow:hidden;">
-  </iframe>
-</div>
+    <!-- ← Реклама (теперь точно появится) ← -->
+    <div style="margin:3rem auto;text-align:center;">
+      <script type="text/javascript">
+        atOptions = {
+          'key' : 'fc035f054b66e67eebba6e8815964147',
+          'format' : 'iframe',
+          'height' : 250,
+          'width' : 300,
+          'params' : {}
+        };
+      </script>
+      <script type="text/javascript" src="//www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.js"></script>
+    </div>
 
-{{ content }}
+    <!-- Контент -->
     {{ content }}
 
-    <!-- Навигация между главами (у тебя уже была) -->
+    <!-- Навигация -->
     {% if page.previous or page.next %}
       <nav class="post-nav">
-        {% if page.previous %}
-          <a href="{{ page.previous.url }}" class="prev">← {{ page.previous.title | split: ". " | last }}</a>
-        {% endif %}
-        {% if page.next %}
-          <a href="{{ page.next.url }}" class="next">{{ page.next.title | split: ". " | last }} →</a>
-        {% endif %}
+        {% if page.previous %}<a href="{{ page.previous.url }}" class="prev">← {{ page.previous.title | split: ". " | last }}</a>{% endif %}
+        {% if page.next %}<a href="{{ page.next.url }}" class="next">{{ page.next.title | split: ". " | last }} →</a>{% endif %}
       </nav>
     {% endif %}
 
   </div>
 </body>
 </html>
-
