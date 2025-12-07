@@ -12,20 +12,11 @@
 
     <!-- Заголовок -->
     {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
-<div style="margin:3rem auto;text-align:center;">
-{% raw %}
-<script type="text/javascript">
-  atOptions = {
-    'key' : 'fc035f054b66e67eebba6e8815964147',
-    'format' : 'iframe',
-    'height' : 250,
-    'width' : 300,
-    'params' : {}
-  };
-</script>
-<script type="text/javascript" src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.js"></script>
-{% endraw %}
-</div>
+<div style="margin:2.5rem auto;text-align:center;">
+  <iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" 
+          width="300" height="250" frameborder="0" scrolling="no" style="border:none;">
+  </iframe>
+  </div>
 
     <!-- Контент -->
     {{ content }}
