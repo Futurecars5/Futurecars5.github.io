@@ -6,7 +6,11 @@ description: "By 2035 a car factory needs only 10 hours to build one vehicle. By
 ---
 
 # 08. Manufacturing 4.0: Gigacasting, Unboxed Process and 10-Hour Car (2025–2045)
-
+<div style="margin:2.5rem auto;text-align:center;">
+  <iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" 
+          width="300" height="250" frameborder="0" scrolling="no" style="border:none;">
+  </iframe>
+  </div>
 By **2030** the average car will consist of **under 100 structural parts** instead of 1,700 today.  
 By **2045** a complete car will roll off the line **every 40 seconds** — built in under **10 hours total**.
 
