@@ -6,7 +6,11 @@ description: "By 2030 70 % of new cars are electric. By 2045 the internal combus
 ---
 
 # 02. Electric Revolution: The Day Gasoline Lost Forever (2025–2045)
-
+<div style="margin:2.5rem auto;text-align:center;">
+  <iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" 
+          width="300" height="250" frameborder="0" scrolling="no" style="border:none;">
+  </iframe>
+  </div>
 By **2030**, **70 % of all new cars sold globally** will be fully electric.  
 By **2045**, the internal-combustion engine will be banned in every developed market.
 
