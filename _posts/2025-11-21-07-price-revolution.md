@@ -6,7 +6,11 @@ description: "By 2035 the average new EV costs less than today’s Toyota Coroll
 ---
 
 # 07. Price Revolution: $9,900 EVs and Robotaxi Economics (2025–2045)
-
+<div style="margin:2.5rem auto;text-align:center;">
+  <iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" 
+          width="300" height="250" frameborder="0" scrolling="no" style="border:none;">
+  </iframe>
+  </div>
 By **2030** the world’s cheapest new car will be electric — **under $10,000**.  
 By **2045** owning a car will be 5–10× more expensive than using a robotaxi.
 
