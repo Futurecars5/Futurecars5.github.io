@@ -6,7 +6,11 @@ description: "By 2035 the battery costs less than the steel body. By 2045 it las
 ---
 
 # 06. Battery Revolution: From Lithium to Sodium and Solid-State (2025–2045)
-
+<div style="margin:2.5rem auto;text-align:center;">
+  <iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" 
+          width="300" height="250" frameborder="0" scrolling="no" style="border:none;">
+  </iframe>
+  </div>
 By **2030** the average battery pack will cost **under $5,000**.  
 By **2045** most new cars will use **sodium-ion or solid-state** batteries that last 3 million km and cannot catch fire.
 
