@@ -7,9 +7,12 @@ description: "From 2025 to 2045 the car will change more than in the previous 14
 
 # 01. Introduction: The Biggest Automotive Revolution in History (2025–2045)
 
-<div style="margin:2.5rem auto;text-align:center;">
-  <iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" 
-          width="300" height="250" frameborder="0" scrolling="no" style="border:none;">
+<!-- ПУСТАЯ СТРОКА ОБЯЗАТЕЛЬНА -->
+
+<div style="margin:2.5rem auto; text-align:center;">
+  <iframe 
+      src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" 
+      width="300" height="250" frameborder="0" scrolling="no" style="border:none;">
   </iframe>
 </div>
 
@@ -40,6 +43,7 @@ These are not guesses — they are locked into EU law, Tesla/Waymo roadmaps, and
 ![Timeline 2025–2045](/images/02.jpg)
 
 Ready? You won’t need to buckle up anymore.
+
 <div class="next-chapter">
   <strong>Next chapter</strong> <a href="/2025/11/21/02-electric-revolution/">02. Electric Revolution: The Day Gasoline Lost Forever</a>
 </div>
