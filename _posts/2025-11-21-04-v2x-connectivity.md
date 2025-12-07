@@ -6,7 +6,11 @@ description: "By 2035 every new car is always online. By 2045 traffic jams and r
 ---
 
 # 04. V2X Connectivity: Cars That Talk to Everything (2025–2045)
-
+<div style="margin:2.5rem auto;text-align:center;">
+  <iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" 
+          width="300" height="250" frameborder="0" scrolling="no" style="border:none;">
+  </iframe>
+  </div>
 By **2030** every new car in Europe, China and California will have C-V2X hardware by law.  
 By **2045** traffic lights and stop signs will be museum exhibits.
 
