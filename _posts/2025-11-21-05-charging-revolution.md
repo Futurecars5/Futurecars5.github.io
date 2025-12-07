@@ -6,7 +6,11 @@ description: "By 2030 350 kW is standard. By 2045 you never stop to charge — r
 ---
 
 # 05. Charging Revolution: 6-Minute Full Charge and Roads That Charge You (2025–2045)
-
+<div style="margin:2.5rem auto;text-align:center;">
+  <iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" 
+          width="300" height="250" frameborder="0" scrolling="no" style="border:none;">
+  </iframe>
+  </div>
 By **2030** the average new EV will charge **0–80 % in under 9 minutes**.  
 By **2045** most owners will never visit a charging station — roads, parking lots and garages will charge automatically.
 
