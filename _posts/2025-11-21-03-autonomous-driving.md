@@ -6,7 +6,11 @@ description: "By 2030 robotaxis in 100 cities. By 2045 zero fatal crashes worldw
 ---
 
 # 03. Autonomous Driving: From Level 2 to Level 5 in 20 Years (2025–2045)
-
+<div style="margin:2.5rem auto;text-align:center;">
+  <iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" 
+          width="300" height="250" frameborder="0" scrolling="no" style="border:none;">
+  </iframe>
+  </div>
 By **2030**, **10 % of all new cars sold** will have Level 4 capability in defined areas.  
 By **2045**, **zero human-driven vehicles** will be allowed inside any major city worldwide.  
 Road deaths drop from **1.35 million/year today** → **under 10,000 globally** — safer than staying at home.
