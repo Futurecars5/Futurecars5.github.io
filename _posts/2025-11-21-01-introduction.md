@@ -7,16 +7,9 @@ description: "From 2025 to 2045 the car will change more than in the previous 14
 
 # 01. Introduction: The Biggest Automotive Revolution in History (2025–2045)
 <div style="margin:2.5rem auto;text-align:center;">
-  <script type="text/javascript">
-    atOptions = {
-      'key' : 'fc035f054b66e67eebba6e8815964147',
-      'format' : 'iframe',
-      'height' : 250,
-      'width' : 300,
-      'params' : {}
-    };
-    document.write('<scr'+'ipt type="text/javascript" src="//www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.js"></scr'+'ipt>');
-  </script>
+  <iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" 
+          width="300" height="250" frameborder="0" scrolling="no" style="border:none;">
+  </iframe>
 </div>
 
 From 2025 to 2045, the car will change more than in the previous 140 years combined.
