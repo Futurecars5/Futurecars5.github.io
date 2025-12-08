@@ -6,9 +6,20 @@ description: "By 2035 the battery costs less than the steel body. By 2045 it las
 ---
 # 06. Battery Revolution: The Day the Battery Became Cheaper, Safer, and Basically Immortal
 
-<div style="margin:2.5rem auto; text-align:center;">
-<iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" width="300" height="250" frameborder="0" scrolling="no" style="border:none;"></iframe>
-</div>
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
+
 
 The battery isn’t the weak link anymore.  
 It’s about to become the strongest, cheapest, and longest-living part of the entire car.
@@ -56,3 +67,16 @@ The battery won. And it won so hard that soon we’ll stop even calling it “a 
 <div class="next-chapter">
 <strong>Next chapter →</strong> <a href="/2025/11/21/07-price-revolution/">07. Price Revolution: $9,900 Brand-New EVs and Robotaxis That Cost 8 Cents per Mile</a>
 </div>
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
