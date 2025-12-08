@@ -68,3 +68,16 @@ Your grandkids will watch old action movies and ask:
 <div class="next-chapter">
 <strong>Next chapter →</strong> <a href="/2025/11/21/04-v2x-connectivity/">04. V2X Connectivity: When Every Car Talks to Every Other Car — and to the Road Itself</a>
 </div>
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
