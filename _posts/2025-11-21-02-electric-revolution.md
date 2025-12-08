@@ -6,9 +6,20 @@ description: "By 2030 70 % of new cars are electric. By 2045 the internal combus
 ---
 # 02. Electric Revolution: The Day Gasoline Lost Forever (2025–2045)
 
-<div style="margin:2.5rem auto; text-align:center;">
-<iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" width="300" height="250" frameborder="0" scrolling="no" style="border:none;"></iframe>
-</div>
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
+
 
 Gasoline didn’t die screaming about the environment.  
 It died quietly in an Excel sheet when the cost per mile of electricity fell below the cost of refined dead dinosaurs—and then kept falling.
@@ -50,3 +61,16 @@ We’re only waiting for the last neon “OPEN” sign at the corner gas station
 <div class="next-chapter">
 <strong>Next chapter →</strong> <a href="/2025/11/21/03-autonomous-driving/">03. Autonomous Driving: From Level 2 Crutches to Level 5 Freedom in 20 Years</a>
 </div>
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
