@@ -63,3 +63,17 @@ They will simply cease to exist — the same way payphones did.
 <div class="next-chapter">
 <strong>Next chapter →</strong> <a href="/2025/11/21/05-charging-revolution/">05. Charging Revolution: From 45 Minutes of Boredom to 6 Minutes of Coffee</a>
 </div>
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
+
