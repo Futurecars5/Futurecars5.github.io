@@ -68,3 +68,17 @@ They’ll just become what horses are today: fun on weekends, somewhere far from
 <div class="next-chapter">
 <strong>Next chapter →</strong> <a href="/2025/11/21/08-manufacturing-4-0/">08. Manufacturing 4.0: Gigacasting, Unboxed Process and Building a Car in 10 Hours</a>
 </div>
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
+
