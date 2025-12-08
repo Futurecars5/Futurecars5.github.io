@@ -6,6 +6,21 @@ description: "By 2035 every new car is permanently online. By 2045 traffic light
 ---
 # 04. V2X Connectivity: When Cars Start Talking — and Traffic Jams Die
 
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
+
+
 Your car is about to become psychic.
 
 By **2030** every new car sold in Europe, China, California, and soon the rest of the U.S. will be forced by law to ship with C-V2X radios.  
