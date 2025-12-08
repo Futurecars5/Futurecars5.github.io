@@ -6,9 +6,20 @@ description: "By 2030 the average EV charges faster than you can fill a gas tank
 ---
 # 05. Charging Revolution: 6-Minute Full Charge and Roads That Refuel You While You Drive
 
-<div style="margin:2.5rem auto; text-align:center;">
-<iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" width="300" height="250" frameborder="0" scrolling="no" style="border:none;"></iframe>
-</div>
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
+
 
 Remember when people said “EVs are great, but charging takes forever”?  
 That excuse dies in the next 3–4 years.
@@ -57,3 +68,16 @@ The gas station is going the way of the video rental store — and much faster t
 <div class="next-chapter">
 <strong>Next chapter →</strong> <a href="/2025/11/21/06-battery-revolution/">06. Battery Revolution: From Lithium-Ion to Sodium, Solid-State, and Beyond</a>
 </div>
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
