@@ -6,9 +6,19 @@ description: "By 2035 the average new EV is cheaper than today’s Corolla. By 2
 ---
 # 07. Price Revolution: $9,900 EVs and Robotaxi Economics That Kill Personal Ownership
 
-<div style="margin:2.5rem auto; text-align:center;">
-<iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" width="300" height="250" frameborder="0" scrolling="no" style="border:none;"></iframe>
-</div>
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
 
 The era of “EVs are expensive” ended in 2023 and never came back.
 
