@@ -6,9 +6,20 @@ description: "By 2035 a car is assembled in ~10 hours instead of 40+. By 2045 th
 ---
 # 08. Manufacturing 4.0: When Building a Car Becomes More Like Molding a Giant Lego Brick
 
-<div style="margin:2.5rem auto; text-align:center;">
-<iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" width="300" height="250" frameborder="0" scrolling="no" style="border:none;"></iframe>
-</div>
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
+
 
 Old-school car factories have **hundreds of robots** welding **1,700+ parts** together over **30–50 hours**.  
 The new ones? A handful of monster machines, a few dozen parts, and the car is finished before your pizza delivery gets cold.
@@ -53,3 +64,16 @@ The ones who don’t own a Giga Press (or five) simply won’t exist anymore.
 <div class="next-chapter">
 <strong>Next chapter →</strong> <a href="/2025/11/21/09-materials-revolution/">09. Materials Revolution: Carbon Fiber at Steel Prices, Mushroom Leather, and Self-Healing Paint</a>
 </div>
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
