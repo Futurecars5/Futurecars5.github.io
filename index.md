@@ -12,7 +12,16 @@ description: "Cars 2025–2045: $15k EVs, 0–100 in 0.9s, full autonomy, 6-min 
 <div class="posts-grid">
   {% assign sorted_posts = site.posts | reverse %}
   {% for post in sorted_posts %}
-    {% assign first_image = post.content | split:'src="' | slice:1 | first | split:'"' | first %}
+
+    {% assign first_image = post.content
+      | split:'<img'
+      | slice:1
+      | first
+      | split:'src="'
+      | slice:1
+      | first
+      | split:'"'
+      | first %}
 
     <article class="post-card">
       <a href="{{ post.url }}">
@@ -26,6 +35,7 @@ description: "Cars 2025–2045: $15k EVs, 0–100 in 0.9s, full autonomy, 6-min 
         </div>
       </a>
     </article>
+
   {% endfor %}
 </div>
 
