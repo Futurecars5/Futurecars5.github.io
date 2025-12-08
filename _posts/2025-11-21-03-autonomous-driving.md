@@ -6,9 +6,20 @@ description: "By 2030 robotaxis operate in 100 cities. By 2045 human driving is 
 ---
 # 03. Autonomous Driving: From Level 2 Crutches to Level 5 Freedom in 20 Years (2025–2045)
 
-<div style="margin:2.5rem auto; text-align:center;">
-<iframe src="https://www.highperformanceformat.com/fc035f054b66e67eebba6e8815964147/invoke.html" width="300" height="250" frameborder="0" scrolling="no" style="border:none;"></iframe>
-</div>
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script
+  type="text/javascript"
+  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
+></script>
+
 
 In 2024 Waymo already gives **50,000+ paid, fully driverless rides every single week** in Phoenix, San Francisco, Los Angeles and Austin — with zero fatalities in over 50 million autonomous miles.  
 Humans, for comparison, kill someone every ~100 million miles.
