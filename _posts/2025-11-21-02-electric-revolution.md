@@ -4,73 +4,46 @@ title: "02. Electric Revolution: The Day Gasoline Lost Forever (2025–2045)"
 date: 2025-11-21 02:00:00
 description: "By 2030 70 % of new cars are electric. By 2045 the internal combustion engine is legally dead in every major market."
 ---
-# 02. Electric Revolution: The Day Gasoline Lost Forever (2025–2045)
-
-<script type="text/javascript">
-  atOptions = {
-  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
-  	'format' : 'iframe',
-  	'height' : 250,
-  	'width' : 300,
-  	'params' : {}
-  };
-</script>
-<script
-  type="text/javascript"
-  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
-></script>
 
 
-Gasoline didn’t die screaming about the environment.  
-It died quietly in an Excel sheet when the cost per mile of electricity fell below the cost of refined dead dinosaurs—and then kept falling.
+Gasoline didn’t die in protests or with dramatic speeches about the climate.  
+It died silently, in a boring Excel spreadsheet—when the cost per mile on electricity dropped below refined dinosaur juice… and then kept plummeting. 💀
 
-By **2030** → **70 % of all new cars sold on planet Earth** will be 100 % battery electric.  
-By **2045** → the internal-combustion engine will be legally extinct in every market that matters (EU, UK, Norway, California, New York, Canada, South Korea, Japan, and most of coastal China). The rest of the world will follow because no one builds two separate car lines forever.
+By **2030** → **70 % of every new car sold on Earth** is 100 % battery electric.  
+By **2045** → the internal combustion engine is legally extinct in every market that actually matters: EU, UK, Norway, California, New York, Canada, South Korea, Japan, and most of coastal China. The rest of the planet will follow because nobody is going to keep two separate assembly lines running forever.
 
-This is no longer “policy ambition.” The laws are passed, the factories are built, the supply contracts are signed.
+This isn’t “hope” or “policy ambition” anymore.  
+The laws are signed. The factories are built. The multi-decade supply contracts are locked. It’s over.
 
 ![Global EV sales S-curve – it’s already vertical](/images/03.jpg)
 
-### The battery cost avalanche (already in motion)
+### The battery price avalanche — watch it happen in real time
 
-| Year   | Price per kWh (pack level) | What it unlocks in the real world                                      |
-|-------|----------------------------|---------------------------------------------------------------------------------|
-| 2024  | ~$130                      | Decent 400–500 km EVs for $35–40k                                              |
-| 2026  | **$70**                    | Full-size sedans and trucks under $30k, profit margins flip positive           |
-| 2029  | **$45**                    | 1–1.6 million km battery warranties become normal, cheaper to keep than repair |
-| 2035  | **$25**                    | The battery pack costs less than the steel body it’s bolted to                 |
-| 2045  | **<$20**                   | Solar paint, structural batteries, ambient energy harvesting become mainstream |
+| Year   | Pack price/kWh | What actually unlocks this year                                      |
+|-------|----------------|-------------------------------------------------------------------------------|
+| 2024  | ~$130          | Solid 500 km EVs for $35–40k                                                  |
+| 2026  | **$70**        | Full-size trucks and sedans under $30k, carmakers finally make real profit   |
+| 2029  | **$45**        | 1–1.6 million km warranties become standard, cheaper to keep than to repair  |
+| 2035  | **$25**        | The battery pack literally costs less than the steel body it’s attached to   |
+| 2045  | **<$20**       | Solar paint, structural batteries, energy-harvesting roads go mainstream     |
 
-Source: CATL, BYD, LG Energy Solution roadmaps + BloombergNEF 2024–2025 data (already conservative).
+(Source: CATL, BYD, LG roadmaps + BloombergNEF 2024–2025 — these numbers are already conservative)
 
 ![2045 car with integrated solar skin and 100 kWh structural pack](/images/04.jpg)
 
-### Why gasoline actually lost
+### Why gasoline got absolutely executed
 
-- **Cheaper**: In Norway today electricity already costs 1/6th per km. By 2030 even in oil-rich Texas an EV will be half the fuel cost.
-- **Faster**: 800-volt architectures already deliver 350 kW → 10 minutes = 400+ km. Megawatt charging (1.5–2 MW) is coming 2027–2028.
-- **More convenient**: No more gas-station stops. You “refuel” at home, at work, at the supermarket—while doing something else.
-- **Silent, smoother, zero maintenance** (no oil, no gearbox, no exhaust, no turbo lag).
+- **Cheaper**: Right now in Norway electricity is already 1/6th the cost per km. By 2030 even in Texas an EV will cost half as much to “fuel.”
+- **Faster**: 800 V platforms already do 350 kW → 400+ km in 10 minutes. Megawatt charging (1.5–2 MW) hits the grid 2027–2028.
+- **More convenient**: No more gas-station stops. You charge at home, at work, at IKEA—while living your life.
+- **Silent, buttery smooth, basically zero maintenance** (no oil, no gearbox, no exhaust, no turbo lag, no drama).
 
-The crazy part? Most people still think this is a “green” story.  
-It’s not. It’s an economic execution. The environment just gets to celebrate the corpse.
+The wildest part?  
+Most people still think this is a “save the planet” story.  
+It’s not.  
+It’s a cold-blooded economic execution.  
+The planet just gets to dance on the grave.
 
-The revolution is already over.  
-We’re only waiting for the last neon “OPEN” sign at the corner gas station to flicker off forever.
+The war is already over.  
+We’re just waiting for the last dusty gas station sign to stop flickering and go dark forever.
 
-<div class="next-chapter">
-<strong>Next chapter →</strong> <a href="/2025/11/21/03-autonomous-driving/">03. Autonomous Driving: From Level 2 Crutches to Level 5 Freedom in 20 Years</a>
-</div>
-<script type="text/javascript">
-  atOptions = {
-  	'key' : '69dadfd5e93b5e8ceedf47d4d344616e',
-  	'format' : 'iframe',
-  	'height' : 250,
-  	'width' : 300,
-  	'params' : {}
-  };
-</script>
-<script
-  type="text/javascript"
-  src="//www.highperformanceformat.com/69dadfd5e93b5e8ceedf47d4d344616e/invoke.js"
-></script>
