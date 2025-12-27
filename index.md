@@ -4,10 +4,6 @@ title: Future Cars 2025–2045
 description: "Cars 2025–2045: $15k EVs, 0–100 in 0.9s, full autonomy, 6-min charging, flying taxis, zero road deaths. Facts only, zero hype."
 ---
 
-<div class="home-hero">
-  <h1>Future Cars<br><span>2025–2045</span></h1>
-  <p class="subtitle">Everything already funded and built</p>
-</div>
 
 <div class="posts-grid">
   {% assign sorted_posts = site.posts | reverse %}
